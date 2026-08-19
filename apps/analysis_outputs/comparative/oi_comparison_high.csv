@@ -1,0 +1,5 @@
+DOS Scenario,R-410A,R-32
+High-load (CW-limited),5.1,35.0
+Water-limited (TW-limited),10.9,1.9
+Efficiency (COP-limited),18.8,38.8
+Balanced,14.0,7.5

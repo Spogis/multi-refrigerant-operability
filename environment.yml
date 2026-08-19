@@ -1,0 +1,21 @@
+# Conda environment for the Multi-Refrigerant Operability study.
+#
+# Create:  conda env create -f environment.yml
+# Update:  conda env update -f environment.yml --prune
+# Use:     conda activate refrigerant-operability
+#          (or run without activating:  conda run -n refrigerant-operability python apps/data_analysis.py)
+#
+# conda-forge is used for ALL packages so NumPy/matplotlib/SciPy share a
+# consistent ABI (avoids the NumPy 2.x vs matplotlib import errors seen with pip).
+name: refrigerant-operability
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - openpyxl
+  - coolprop
+  - pip

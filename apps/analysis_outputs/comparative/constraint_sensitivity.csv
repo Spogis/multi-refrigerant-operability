@@ -1,0 +1,9 @@
+Cluster,Scenario,CW_min,TW_max,COP_min,R-410A,R-32,Winner,R-134a,R-1234yf
+High,High-load (CW-limited),34.0,201.0,3.3,5.1,35.0,R-32,,
+High,Water-limited (TW-limited),23.8,150.0,3.3,10.9,1.9,R-410A,,
+High,Efficiency (COP-limited),23.8,201.0,3.95,18.8,38.8,R-32,,
+High,Balanced,30.0,162.0,3.7,14.0,7.5,R-410A,,
+Low,High-load (CW-limited),13.5,78.0,3.3,,,R-134a,25.9,8.3
+Low,Water-limited (TW-limited),9.4,60.0,3.3,,,R-1234yf,5.6,10.9
+Low,Efficiency (COP-limited),9.4,78.0,4.0,,,R-134a,38.6,17.0
+Low,Balanced,12.0,64.0,3.7,,,R-134a,11.5,11.3

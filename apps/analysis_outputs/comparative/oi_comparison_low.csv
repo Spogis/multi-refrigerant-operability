@@ -1,0 +1,5 @@
+DOS Scenario,R-134a,R-1234yf
+High-load (CW-limited),25.9,8.3
+Water-limited (TW-limited),5.6,10.9
+Efficiency (COP-limited),38.6,17.0
+Balanced,11.5,11.3

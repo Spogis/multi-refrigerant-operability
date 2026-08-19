@@ -1,0 +1,81 @@
+Cluster,Scenario,Refrigerant,T_cond (C),OI (%)
+low,High-load (CW-limited),R-134a,30.0,21.6
+low,High-load (CW-limited),R-134a,35.0,11.93
+low,High-load (CW-limited),R-134a,40.0,5.49
+low,High-load (CW-limited),R-134a,42.5,3.46
+low,High-load (CW-limited),R-134a,45.0,1.91
+low,High-load (CW-limited),R-1234yf,30.0,16.75
+low,High-load (CW-limited),R-1234yf,35.0,6.75
+low,High-load (CW-limited),R-1234yf,40.0,1.73
+low,High-load (CW-limited),R-1234yf,42.5,0.61
+low,High-load (CW-limited),R-1234yf,45.0,0.08
+low,Water-limited (TW-limited),R-134a,30.0,1.56
+low,Water-limited (TW-limited),R-134a,35.0,1.57
+low,Water-limited (TW-limited),R-134a,40.0,1.62
+low,Water-limited (TW-limited),R-134a,42.5,1.39
+low,Water-limited (TW-limited),R-134a,45.0,0.34
+low,Water-limited (TW-limited),R-1234yf,30.0,2.88
+low,Water-limited (TW-limited),R-1234yf,35.0,2.98
+low,Water-limited (TW-limited),R-1234yf,40.0,3.16
+low,Water-limited (TW-limited),R-1234yf,42.5,1.4
+low,Water-limited (TW-limited),R-1234yf,45.0,0.36
+low,Efficiency (COP-limited),R-134a,30.0,20.53
+low,Efficiency (COP-limited),R-134a,35.0,14.73
+low,Efficiency (COP-limited),R-134a,40.0,5.33
+low,Efficiency (COP-limited),R-134a,42.5,0.83
+low,Efficiency (COP-limited),R-134a,45.0,0.0
+low,Efficiency (COP-limited),R-1234yf,30.0,20.08
+low,Efficiency (COP-limited),R-1234yf,35.0,12.79
+low,Efficiency (COP-limited),R-1234yf,40.0,2.32
+low,Efficiency (COP-limited),R-1234yf,42.5,0.0
+low,Efficiency (COP-limited),R-1234yf,45.0,0.0
+low,Balanced,R-134a,30.0,6.53
+low,Balanced,R-134a,35.0,4.48
+low,Balanced,R-134a,40.0,2.08
+low,Balanced,R-134a,42.5,0.82
+low,Balanced,R-134a,45.0,0.02
+low,Balanced,R-1234yf,30.0,8.62
+low,Balanced,R-1234yf,35.0,5.44
+low,Balanced,R-1234yf,40.0,2.02
+low,Balanced,R-1234yf,42.5,0.48
+low,Balanced,R-1234yf,45.0,0.0
+high,High-load (CW-limited),R-410A,30.0,13.42
+high,High-load (CW-limited),R-410A,35.0,4.98
+high,High-load (CW-limited),R-410A,40.0,1.08
+high,High-load (CW-limited),R-410A,42.5,0.27
+high,High-load (CW-limited),R-410A,45.0,0.0
+high,High-load (CW-limited),R-32,30.0,25.92
+high,High-load (CW-limited),R-32,35.0,14.89
+high,High-load (CW-limited),R-32,40.0,7.54
+high,High-load (CW-limited),R-32,42.5,5.16
+high,High-load (CW-limited),R-32,45.0,3.16
+high,Water-limited (TW-limited),R-410A,30.0,3.51
+high,Water-limited (TW-limited),R-410A,35.0,3.17
+high,Water-limited (TW-limited),R-410A,40.0,3.03
+high,Water-limited (TW-limited),R-410A,42.5,1.25
+high,Water-limited (TW-limited),R-410A,45.0,0.25
+high,Water-limited (TW-limited),R-32,30.0,0.56
+high,Water-limited (TW-limited),R-32,35.0,0.55
+high,Water-limited (TW-limited),R-32,40.0,0.51
+high,Water-limited (TW-limited),R-32,42.5,0.16
+high,Water-limited (TW-limited),R-32,45.0,0.0
+high,Efficiency (COP-limited),R-410A,30.0,19.94
+high,Efficiency (COP-limited),R-410A,35.0,13.12
+high,Efficiency (COP-limited),R-410A,40.0,2.26
+high,Efficiency (COP-limited),R-410A,42.5,0.0
+high,Efficiency (COP-limited),R-410A,45.0,0.0
+high,Efficiency (COP-limited),R-32,30.0,21.94
+high,Efficiency (COP-limited),R-32,35.0,15.5
+high,Efficiency (COP-limited),R-32,40.0,4.68
+high,Efficiency (COP-limited),R-32,42.5,0.0
+high,Efficiency (COP-limited),R-32,45.0,0.0
+high,Balanced,R-410A,30.0,11.65
+high,Balanced,R-410A,35.0,6.99
+high,Balanced,R-410A,40.0,2.35
+high,Balanced,R-410A,42.5,0.34
+high,Balanced,R-410A,45.0,0.0
+high,Balanced,R-32,30.0,5.9
+high,Balanced,R-32,35.0,3.93
+high,Balanced,R-32,40.0,1.26
+high,Balanced,R-32,42.5,0.07
+high,Balanced,R-32,45.0,0.0
